@@ -44,6 +44,10 @@ HealthMate is a **Python-based AI-driven healthcare chatbot** that helps users i
    - Suggested precautions
 5. If the symptoms indicate severity, it recommends consulting a doctor.
 
+## Screenshots
+![Screenshot 2025-03-07 150034](https://github.com/user-attachments/assets/ea23e399-d45d-4e86-b876-ccfb49ca3bf2)
+![Screenshot 2025-03-07 150145](https://github.com/user-attachments/assets/c7a6f3b3-a099-471b-8361-8163e394e5e7)
+
 
 ## Future Enhancements
 - Improve GUI for better user experience.
